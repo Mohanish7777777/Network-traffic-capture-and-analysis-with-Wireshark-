@@ -1,6 +1,6 @@
 # Network-traffic-capture-and-analysis-with-Wireshark
-### Reg.No : 212222100027
-### Name : MOHAMMED FAIZAL J
+### Reg.No : 212222100028
+### Name : MOHANISH K
 ## AIM:
 To capture and analyze network traffic using Wireshark in order to observe protocols, packets, and potential anomalies.
 
